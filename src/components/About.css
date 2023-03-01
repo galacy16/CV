@@ -1,0 +1,57 @@
+/* Styling the about component */
+
+.container {
+    padding: 0 5px;
+}
+
+.name {
+    text-align: center;
+    padding: 20px;
+    font-family: "Rampart One", sans-serif;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.details-box {
+    box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.15);
+    width: 80%;
+    margin: 0 auto;
+}
+
+.details {
+    font-family: "Noto Serif", sans-serif;
+    font-weight: 600;
+    padding: 30px;
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 2.5;
+    text-align: center;
+    color: #333;
+}
+
+.profile {
+    height: 180px;
+    width: 170px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.lang {
+    padding: 5x;
+}
+
+.link {
+    padding-left: 50px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.email {
+    text-decoration: none;
+}
+
+.description {
+    margin-top: 30px;
+}

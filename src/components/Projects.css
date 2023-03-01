@@ -1,0 +1,10 @@
+/* Styling the projects component */
+
+.project {
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.more {
+    padding-left: 50px;
+}

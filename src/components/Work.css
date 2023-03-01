@@ -1,0 +1,21 @@
+/* Styling the work component */
+
+.work {
+    padding-top: 20px;
+    padding-left: 5px;
+    line-height: 1;
+    font-weight: 400;
+}
+
+.line {
+    padding: 1px;
+    color: burlywood;
+}
+
+.company {
+    color: rgb(129, 76, 7);
+}
+
+.duties {
+    font-weight: 700;
+}
