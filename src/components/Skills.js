@@ -9,13 +9,13 @@ const Skills = () => {
             </h2>
             <hr className="line" />
             <div className="skills">
-                <i className="fa-brands fa-html5">HTML5</i>
-                <i className="fa-brands fa-css3-alt">CSS</i>
-                <i className="fa-brands fa-js">JavaScript</i>
-                <i className="fa-brands fa-react">React</i>
-                <i className="fa-brands fa-bootstrap">Bootstrap</i>
-                <i className="fa-brands fa-github">GitHub</i>
-                <i className="fa-brands fa-node">Node.JS</i>
+                <i className="fa-brands fa-html5"> HTML5</i>
+                <i className="fa-brands fa-css3-alt"> CSS</i>
+                <i className="fa-brands fa-js"> JavaScript</i>
+                <i className="fa-brands fa-react"> React</i>
+                <i className="fa-brands fa-bootstrap"> Bootstrap</i>
+                <i className="fa-brands fa-github"> GitHub</i>
+                <i className="fa-brands fa-node"> Node.JS</i>
             </div>
         </div>
     );
