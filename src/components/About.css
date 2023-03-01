@@ -42,16 +42,30 @@
     padding: 5x;
 }
 
+.email {
+    text-decoration: none;
+}
+
+.email:hover {
+    color: #ff0000;
+}
+
 .link {
     padding-left: 50px;
     display: inline-block;
     margin-right: 5px;
 }
 
-.email {
-    text-decoration: none;
-}
-
 .description {
     margin-top: 30px;
+}
+
+.fa-linkedin:hover,
+.fa-linkedin:focus {
+    color: #ff0000;
+}
+
+.fa-github:hover,
+.fa-github:focus {
+    color: #ff0000;
 }
