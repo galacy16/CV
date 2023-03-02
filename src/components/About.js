@@ -61,12 +61,13 @@ const About = () => {
                 </div>
             </div>
             <p className="description pad">
-                Enthusiastic Web Developer Student eager to contribute to team
-                success through hard work, attention to detail and excellent
-                organisational skills. Understanding of Web development and
-                proﬁcient in technical languages of JavaScript, HTML, CSS, or
-                framesworks like Bootstrap and environments like Node.JS.
-                Motivated to learn, grow and excel in the tech industry.
+                Enthusiastic Web Developer Student, who just switched to tech
+                recently, eager to contribute to team success through hard work,
+                attention to detail and excellent organisational skills.
+                Understanding of Web development and proﬁcient in technical
+                languages of JavaScript, HTML, CSS, or frameworks like Bootstrap
+                and environments like Node.JS. Motivated to learn, grow and
+                excel in the tech industry.
             </p>
         </div>
     );
